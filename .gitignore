@@ -3,3 +3,4 @@
 cache/
 logs/codingteam@conference.jabber.ru/*.log
 logs/codingteam@conference.jabber.ru/out
+.Rproj.user
