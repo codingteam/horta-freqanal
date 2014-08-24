@@ -1,0 +1,1 @@
+cat *.log | iconv -f utf-16 -t utf-8| sed 's/^\[//' | sed 's/\] [\*<>] /\`/' | sed 's/ *[\*:] /\`/' > out
